@@ -1,4 +1,4 @@
-# Web-Automation-with-Selenium-JUnit_Prac
+# Web-Automation-with-Selenium-JUnit
 
 ## What is Selenium JUnit:
 
